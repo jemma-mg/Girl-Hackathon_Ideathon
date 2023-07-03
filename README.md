@@ -36,7 +36,7 @@ Available inputs are -
 1. Start
 2. Read the input files
 3. Identify the node with fault and assign the complement value, i.e, for SA0 assign value at node as 1 and vice versa.
-4. Propogate this complement value to output
+4. Propagate this complement value to output
 5. Identify the input vectors to obtain the complemented output.
-6. Write the input vector and expected value of output to confirm the fault to output file.
+6. Write the input vector and expected value of output to confirm the fault to the output file.
 7. Stop
